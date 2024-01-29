@@ -5,6 +5,7 @@ This project was undertaken during my internship at Algebra Intelligence. It inv
 Project Phases
 Phase 1: Database Design
 Design an Entity-Relationship Diagram (ERD) to outline the project's data structure.
+![Screenshot (172)](https://github.com/m7madDaraghmeh/algebraTask/assets/149062798/a9f37b95-27a6-4c7b-b35d-d7c2e8c9c257)
 
 Phase 2: Implementation - Task Branches
 Task 1 Branch
